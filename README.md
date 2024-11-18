@@ -4,6 +4,6 @@ Marathi Neurons is attempt to learn Neural Network from famous youtube course ['
 
 It contains Notebooks for processing and generating Marathi text with help of learning material provided by respective youtube course.
 
-All input generation and processing script are developed by us. We are using material suggested by course in terms of getting clearity of working of Neural Network. We will tune same learning material according to our need of marathi text generation.
+All input generation and processing script are developed by me. I am using material suggested by course in terms of getting clearity of working of Neural Network. I will tune same learning material according to our need of marathi text generation.
 
-Please let us know regarding this attempt of learning Neural Network.
+Please let me know regarding this attempt of learning Neural Network.
